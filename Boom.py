@@ -11,7 +11,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # ==================== YOUR CREDENTIALS ====================
-SENDER_EMAIL = "tyranroot@gmail.com"
+SENDER_EMAIL = "exploitxpertt@gmail.com"
 SENDER_PASSWORD = "lzvn bokf dagt tacw"
 # ============================================================
 
