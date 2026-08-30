@@ -12,7 +12,7 @@ init(autoreset=True)
 
 # ==================== YOUR CREDENTIALS ====================
 SENDER_EMAIL = "exploitxpertt@gmail.com"
-SENDER_PASSWORD = "ExploittXpertt#"
+SENDER_PASSWORD = "abcd efgh"
 # ============================================================
 
 # ==================== MESSAGE BODIES ====================
