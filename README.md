@@ -29,6 +29,10 @@ python3 Boom.py
 ===========================================================================
 **Kali and others distribution**
 
+
+[Suggestion: Make a separate venv for nano-boom] 
+
+
 rm -rf ~/nano-boom
 
 sudo apt update -y
