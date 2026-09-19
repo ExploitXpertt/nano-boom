@@ -17,26 +17,45 @@ SENDER_PASSWORD = "kzno magj qrsh aeih"
 
 # ==================== MESSAGE BODIES ====================
 MESSAGE_BODIES = [
-    "⚠️ Security Alert: Unauthorized access detected.🙂",
-    "🔐 Your account has been compromised. Change password immediately.😄",
-    "💀 This is a security test. No action needed. ExploitXpertt fuck You🤣",
-    "🎯 Important: Your login credentials were found in a data breach.",
-    "🌑 Your data has been secured. Thank you for your cooperation.",
-    "🔥 Our systems detected unusual activity from your IP.",
-    "📡 This is an automated security notification.",
-    "⚡ Action required: Verify your email address.",
-    "🕷️ A new device logged into your account.",
-    "🎭 Your privacy is important to us. Please review our policy.",
-    "🔓 Security update: Two-factor authentication now available.",
-    "📀 Your account has been flagged for review.",
-    "⚙️ System maintenance scheduled for tonight.",
-    "🎪 Welcome to our security awareness program.",
-    "🔮 We're here to help. Contact support if needed.",
-    "✅ This is a test. No response required.",
-    "📧 Your email is safe. This is a drill.",
-    "🔒 Security check: Please confirm your identity.",
-    "⚠️ Phishing attempt detected. Stay vigilant.",
-    "🛡️ Your account is not 😎."
+    "⚠️ Security Alert: Unauthorized access detected. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🔐 Your account has been compromised. Change password immediately. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"💀 This is a security test. No action needed. ExploitXpertt fuck You Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🎯 Important: Your login credentials were found in a data breach. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🌑 Your data has been secured. Thank you for your cooperation. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🔥 Our systems detected unusual activity from your IP. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"📡 This is an automated security notification. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"⚡ Action required: Verify your email address. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🕷️ A new device logged into your account. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🎭 Your privacy is important to us. Please review our policy. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🔓 Security update: Two-factor authentication now available. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"📀 Your account has been flagged for review. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"⚙️ System maintenance scheduled for tonight. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🎪 Welcome to our security awareness program. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🔮 We're here to help. Contact support if needed. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"✅ This is a test. No response required. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"📧 Your email is safe. This is a drill. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🔒 Security check: Please confirm your identity. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"⚠️ Phishing attempt detected. Stay vigilant. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+
+"🛡️ Your account is not Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard".
 ]
 
 SUBJECTS = [
