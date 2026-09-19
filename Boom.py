@@ -55,7 +55,7 @@ MESSAGE_BODIES = [
 
 "⚠️ Phishing attempt detected. Stay vigilant. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
 
-"🛡️ Your account is not Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard".
+"🛡️ Your account is not Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
 ]
 
 SUBJECTS = [
