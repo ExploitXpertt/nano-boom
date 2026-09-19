@@ -17,45 +17,25 @@ SENDER_PASSWORD = "kzno magj qrsh aeih"
 
 # ==================== MESSAGE BODIES ====================
 MESSAGE_BODIES = [
-    "⚠️ Security Alert: Unauthorized access detected. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+    "🚨 CRITICAL SECURITY BREACH: Active session hijacking detected from an unrecognized location. All current sessions have been force-terminated.",
 
-"🔐 Your account has been compromised. Change password immediately. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"⚠️ DATA EXFILTRATION ALERT: High-volume data transfer detected from your cloud storage. Lock your account instantly.",
 
-"💀 This is a security test. No action needed. ExploitXpertt fuck You Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"🛑 RANSOMWARE SUSPECTED: Unauthorized encryption activity detected on linked file systems. Disconnect network access immediately.",
 
-"🎯 Important: Your login credentials were found in a data breach. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"💳 FINANCIAL COMPROMISE: API key leak detected. Unauthorized attempt to access attached payment methods blocked.",
 
-"🌑 Your data has been secured. Thank you for your cooperation. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"👤 IDENTITY TAKE-OVER: Primary recovery phone number and backup email were changed from an unknown IP address.",
 
-"🔥 Our systems detected unusual activity from your IP. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"👁️ EXPLOIT DETECTED: Zero-day credential dump match found. Your master key hash is circulating in an active paste.",
 
-"📡 This is an automated security notification. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"🔒 UNAUTHORIZED OVERRIDE: Administrator privileges granted to an external IP. System lockout imminent.",
 
-"⚡ Action required: Verify your email address. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"☣️ MALWARE INFECTION: Remote Access Trojan (RAT) activity confirmed on your active device session.",
 
-"🕷️ A new device logged into your account. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"📲 MFA BYPASS DETECTED: SIM-swap attempt detected on your registered phone line. Authenticator access compromised.",
 
-"🎭 Your privacy is important to us. Please review our policy. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"🔓 Security update: Two-factor authentication now available. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"📀 Your account has been flagged for review. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"⚙️ System maintenance scheduled for tonight. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"🎪 Welcome to our security awareness program. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"🔮 We're here to help. Contact support if needed. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"✅ This is a test. No response required. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"📧 Your email is safe. This is a drill. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"🔒 Security check: Please confirm your identity. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"⚠️ Phishing attempt detected. Stay vigilant. Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
-
-"🛡️ Your account is not Email Raaid By: Sofiya Neupane: Nosotros Academy: 10th Standard",
+"🌐 DNS POISONING: Web traffic redirected to a malicious mirror server. Cease all input immediately.",
 ]
 
 SUBJECTS = [
