@@ -17,25 +17,25 @@ SENDER_PASSWORD = "kzno magj qrsh aeih"
 
 # ==================== MESSAGE BODIES ====================
 MESSAGE_BODIES = [
-    "🚨 CRITICAL SECURITY BREACH: Active session hijacking detected from an unrecognized location. All current sessions have been force-terminated.",
+    "Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"⚠️ DATA EXFILTRATION ALERT: High-volume data transfer detected from your cloud storage. Lock your account instantly.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"🛑 RANSOMWARE SUSPECTED: Unauthorized encryption activity detected on linked file systems. Disconnect network access immediately.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"💳 FINANCIAL COMPROMISE: API key leak detected. Unauthorized attempt to access attached payment methods blocked.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"👤 IDENTITY TAKE-OVER: Primary recovery phone number and backup email were changed from an unknown IP address.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"👁️ EXPLOIT DETECTED: Zero-day credential dump match found. Your master key hash is circulating in an active paste.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"🔒 UNAUTHORIZED OVERRIDE: Administrator privileges granted to an external IP. System lockout imminent.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"☣️ MALWARE INFECTION: Remote Access Trojan (RAT) activity confirmed on your active device session.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"📲 MFA BYPASS DETECTED: SIM-swap attempt detected on your registered phone line. Authenticator access compromised.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 
-"🌐 DNS POISONING: Web traffic redirected to a malicious mirror server. Cease all input immediately.",
+"Email Boom By Sofiya Neupane 10th standard Nosotros Academy",
 ]
 
 SUBJECTS = [
